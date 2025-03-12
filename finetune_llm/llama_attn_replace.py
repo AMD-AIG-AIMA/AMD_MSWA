@@ -1,5 +1,8 @@
 # Modified based on https://github.com/lm-sys/FastChat
 
+# Modifications Copyright © 2025 Advanced Micro Devices, Inc. All rights reserved.
+#
+
 import warnings
 from typing import Optional, Tuple
 
