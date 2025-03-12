@@ -1,5 +1,8 @@
 # Modified based on https://github.com/dvlab-research/LongLoRA
 
+# Modifications Copyright © 2025 Advanced Micro Devices, Inc. All rights reserved.
+#
+
 from typing import Optional, Tuple
 import warnings
 import torch
