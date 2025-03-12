@@ -1,3 +1,6 @@
+# Copyright © 2025 Advanced Micro Devices, Inc. All rights reserved.
+#
+
 import math
 from typing import Optional, Tuple
 
