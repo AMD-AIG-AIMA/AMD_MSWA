@@ -45,7 +45,6 @@ def main(args):
     if not os.path.isfile(adapter_model):
         torch.save(weights_lora, adapter_model)
     torch.save(weights_trainable, trainable_params)
-    print(trainable_params)
 
 if __name__ == "__main__":
     args = parse_config()
